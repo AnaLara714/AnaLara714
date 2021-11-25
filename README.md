@@ -1,8 +1,5 @@
 ## Olá! Eu sou a Ana Lara
 
-- 🌱 Interesse em Front-end
-- 😄 Pronomes: ela/dela
-
 <div align="center">
   <a href="https://github.com/AnaLara714">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaLara714&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
