@@ -1,4 +1,4 @@
-## Olá! Eu sou a Ana Lara
+## Olá! Eu sou a Ana Lara ;)
 
 <div align="center">
   <a href="https://github.com/AnaLara714">
