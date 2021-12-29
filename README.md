@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Ana Lara ;)
-# Estudo Front-end
+👩‍💻 Estudo Front-end
 
 <div align="center">
   <a href="https://github.com/AnaLara714">
