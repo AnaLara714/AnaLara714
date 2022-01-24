@@ -1,9 +1,9 @@
-## Ooii, tudo bom? Espero que sim! ;)
---! Meu nome é Ana Lara e sou estudante de Engenharia de Computação 💻⚙ 👩‍💻
+## Oii, tudo bom? Espero que sim! 😄
+// Meu nome é Ana Lara e sou estudante de Engenharia de Computação. 💻⚙ 👩‍💻
 
  📚 No momento estou buscando me dedicar no desenvolvimento de Front-end. 
  
- 🎯 React JS, HTML, CSS e entre outras. !--
+ 🎯 ReactJS, HTML, CSS. 
 
 <div align="center">
   <a href="https://github.com/AnaLara714">
