@@ -7,10 +7,10 @@
 ## 
 <div align="center">
   <a href="https://github.com/AnaLara714">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AnaLara714&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLara714&layout=compact&langs_count=7&theme=dark"/>
-  <img align="right" alt="Eu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/867480198039732236/913404114929590272/picasion.com_e43883a4d352817ce25b67f0d31da798.gif">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnaLara714&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLara714&layout=compact&langs_count=7&theme=dark"/> <br/>
 </div>
+  <img align="right" alt="Eu-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/867480198039732236/913404114929590272/picasion.com_e43883a4d352817ce25b67f0d31da798.gif">
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
