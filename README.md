@@ -11,12 +11,12 @@
  
 */}
 ##
-(Soft skills): 
+ Algumas Soft skills: 
 > Comunicação, Liderança, Solução de problemas, Adaptabilidade, Trabalho em equipe, Empatia, Flexibilidade, Escuta ativa
 
 ## 
 Algumas tecnologias familiarizadas (Hard skills): 
-> <div style="display: flex">
+<div style="display: flex; flex-direction: row">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
