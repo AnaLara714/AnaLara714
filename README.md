@@ -3,11 +3,11 @@
 
 👩‍💻 Sou estudante de Engenharia de Computação na UFC campus Sobral. 💻⚙ 
 
-  📚 Sou desenvolvedora, e no momento estou buscando me dedicar ao desenvolvimento front-end. 
+  📚 Sou desenvolvedora, e no momento estou buscando me dedicar ao desenvolvimento fullstack. 
  
- 🎯 Especificamente nas tecnologias: ReactJS,Typescript, Javascript, HTML e CSS. 
+ 🎯 Especificamente nas tecnologias: ReactJS, Typescript e Node Js. 
  
- 🥰 Adoro fotografia, ultimamente estou na vibe de usar as cameras digitais antigas, também gosto muito de tocar violão e instrumentos de percussão. 📸🎸🥁
+ 🥰 Adoro fotografia, ultimamente estou na vibe de usar as cameras digitais antigas, também gosto muito de tocar contrabaixo elétrico e instrumentos de percussão. 📸🎸🥁
  
 */}
 ##
