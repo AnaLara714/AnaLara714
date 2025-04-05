@@ -1,13 +1,4 @@
 <div align="center">
-
-###
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=analara714.analara714&left_color=mediumorchid"  />
-</div>
-
-###
-
 <h1 align="center">Eaê!👋</h1>
 
 ###
@@ -92,7 +83,7 @@
 <br clear="both">
 
 <div align="center" style="display: flex; flex-direction: column">
-  <img src="https://streak-stats.demolab.com?user=analara714&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=analara714&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <div style="display: flex; flex-direction: row">
   <img src="https://github-readme-stats.vercel.app/api?username=analara714&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=analara714&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
