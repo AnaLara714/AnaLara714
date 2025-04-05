@@ -26,8 +26,8 @@
 
 ###
 
-<p align="left">Eu sou a Ana Lara, sou desenvolvedora<br><br> {/* -👩‍💻 Sou estudante de Engenharia de Computação na UFC campus Sobral. 💻⚙ <br>-🔭 Eu trabalho com o desenvolvimento web<br>- 📚 Estou aprendendo atualmente Typescript, Node Js, React JS <br>- ⚡ No meu tempo livre eu gosto de sair com meus amigos, assistir filmes, tirar e editar fotos <br>-🥰 Adoro fotografia, ultimamente estou na vibe de usar as cameras digitais antigas, também gosto muito de tocar contrabaixo elétrico e instrumentos de percussão. 📸🎸🥁
-
+<p align="left">Eu sou a Ana Lara, sou desenvolvedora<br><br> {/*<br> - 👩‍💻 Sou estudante de Engenharia de Computação na UFC campus Sobral.  <br>- 🔭 Eu trabalho com o desenvolvimento web<br>- 📚 Estou aprendendo atualmente Typescript, Node Js, React JS <br>- ⚡ No meu tempo livre eu gosto de sair com meus amigos, assistir filmes, tirar e editar fotos <br>-🥰 Adoro fotografia, ultimamente estou na vibe de usar as cameras digitais antigas, também gosto muito de tocar contrabaixo elétrico e instrumentos de percussão. 📸🎸🥁
+<br>
 */}</p>
 
 ###
@@ -93,6 +93,7 @@
 
 ###
 
-<h3 align="left">🔥   Soft skills :</h3>
+<h3 align="left">👤   Soft skills :</h3>
+
 ### 
-Comunicação, Liderança, Solução de problemas, Adaptabilidade, Trabalho em equipe, Empatia, Flexibilidade, Escuta ativa
+<p>Comunicação, Liderança, Solução de problemas, Adaptabilidade, Trabalho em equipe, Empatia, Flexibilidade, Escuta ativa</p>
