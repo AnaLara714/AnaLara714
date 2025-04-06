@@ -1,13 +1,12 @@
 <div align="center">
 <h1 align="center">Eaê!👋</h1>
 
+
+<h2 align="center">👩‍💻  Muito prazer, eu sou a Ana Lara</h2>
+<h3 align="left">🔍  About me</h3> 
+
 ###
-
-<h3 align="left">👩‍💻  Eu sou a Ana Lara, sou desenvolvedora<br></h3>
-
-###
-
-<p align="left"> {/*<br> - 👩‍💻 Estudante de Engenharia de Computação na UFC campus Sobral.  <br>- 🔭 Eu trabalho com o desenvolvimento web<br>- 📚 Estou aprendendo atualmente Typescript, Node Js, React JS <br>- ⚡ No meu tempo livre eu gosto de sair com meus amigos, assistir filmes, tirar e editar fotos <br>- 🥰 Adoro fotografia, ultimamente estou na vibe de usar as cameras digitais antigas, também gosto muito de tocar contrabaixo elétrico e instrumentos de percussão. 📸🎸🥁
+<p align="left"> {/*<br> - 👩‍💻 Estudante de Engenharia de Computação na UFC campus Sobral.  <br>- 🔭 Eu trabalho com o desenvolvimento web<br>- 📚 Estou aprendendo atualmente Typescript, Node Js, React JS <br>- ⚡ No meu tempo livre eu gosto de sair com meus amigos, assistir filmes, tirar e editar fotos <br>- 🥰 Ultimamente estou na vibe de usar as cameras digitais antigas, também gosto muito de tocar contrabaixo elétrico e instrumentos de percussão. 📸🎸🥁
 <br>
 */}</p>
 
@@ -63,15 +62,15 @@
 
 ### 
 
-<p>Comunicação, Liderança, Solução de problemas, Adaptabilidade, Trabalho em equipe, Empatia, Flexibilidade, Escuta ativa</p>
+<p align="center">Comunicação, Liderança, Solução de problemas, Adaptabilidade, Trabalho em equipe, Empatia, Flexibilidade, Escuta ativa</p>
 
 ###
 <h3 align="left">📨   Contate me </h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/analaracarvalho" target="_blank"/>
+  <a href="https://www.linkedin.com/in/analaracarvalho" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /> </a>
-  <a href="mailto:analara714@gmail.com" target="_blank"/> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
+  <a href="mailto:analara714@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
 </div>
 
 ###
