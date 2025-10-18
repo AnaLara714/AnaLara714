@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Eaê!👋</h1>
 
-
 <h2 align="center">👩‍💻  Muito prazer, eu sou a Ana Lara</h2>
 <h3 align="left">🔍  About me</h3> 
 
