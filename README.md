@@ -2,9 +2,8 @@
 <h3 align="left">🔍  About me</h3> 
 
 ###
-<p align="left"> {/*<br> - 👩‍💻 Estudante de Engenharia de Computação na UFC campus Sobral.  <br>- 🔭 Eu trabalho com o desenvolvimento web<br>- 📚 Estou aprendendo atualmente Typescript, Node Js, React JS <br>- ⚡ No meu tempo livre eu gosto de sair com meus amigos, assistir filmes, tirar e editar fotos <br>- 🥰 Ultimamente estou na vibe de usar as cameras digitais antigas, também gosto muito de tocar contrabaixo elétrico e instrumentos de percussão. 📸🎸🥁
-<br>
-*/}</p>
+<p align="left"> - 👩‍💻 Estudante de Engenharia de Computação na UFC, campus Sobral.  <br>- 🔭 Eu trabalho com o desenvolvimento web<br>- 📚 Estou aprendendo atualmente TypeScript, Node Js, React JS <br>- ⚡ No meu tempo livre eu gosto de sair com meus amigos, assistir filmes, tirar e editar fotos <br>- 🥰 Ultimamente estou na vibe de usar as cameras digitais antigas, também gosto muito de tocar contrabaixo elétrico e instrumentos de percussão. 📸🎸🥁
+</p>
 
 ###
 
@@ -30,6 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
