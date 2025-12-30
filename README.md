@@ -1,8 +1,15 @@
 <div align="center">
-<h3 align="left">🔍  About me</h3> 
+<h3 align="left">Olá! Sou a Ana Lara, dev fullstack! 👋</h3> 
 
-###
-<p align="left"> - 👩‍💻 Estudante de Engenharia de Computação na UFC, campus Sobral.  <br>- 🔭 Eu trabalho com o desenvolvimento web<br>- 📚 Estou aprendendo atualmente TypeScript, Node Js, React JS <br>- ⚡ No meu tempo livre eu gosto de sair com meus amigos, assistir filmes, tirar e editar fotos <br>- 🥰 Ultimamente estou na vibe de usar as cameras digitais antigas, também gosto muito de tocar contrabaixo elétrico e instrumentos de percussão. 📸🎸🥁
+<h4 align="left">🔍 Me conheça um pouco mais </h3> 
+
+<p align="left"> 
+      - 👩‍💻 Sou estudante de engenharia de Computação na UFC, campus Sobral.  
+  <br>- 🔭 Atualmente estou trabalahdno com o TypeScript, React JS, C# e SQL no desenvolvimento web fullstack
+  <br>- 📚 Estou me buscando estudar mais as tecnologias que utilizo no dia a dia
+  <br>- 🤓 Quero me aprofundar mais no desenvolvimento fullstack e ver mais temas como algoritmos, testes e deploys
+  <br>- ⚡ Quando tenho um tempo mais livre gosto de sair para pegar um ar ou ficar um tempo de boa
+  <br>- 🧐 Ultimamente estou na vibe de assistir filmes da minha watchlist, que vai de nacionais à animações, gosto editar fotos, ver séries e documentários e ouvir musiquinhas. 📸🎸🥁
 </p>
 
 ###
