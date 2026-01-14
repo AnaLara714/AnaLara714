@@ -1,10 +1,10 @@
 <div align="center">
 <h3 align="left">Olá! Sou a Ana Lara, dev fullstack! 👋</h3> 
 
-<h4 align="left">🔍 Me conheça um pouco: </h3> 
+<h4 align="left">🔍 Me conheça um pouco mais: </h3> 
 
 <p align="left"> 
-      - 👩‍💻 Sou estudante de engenharia de Computação na UFC, campus Sobral<br>- 🔭 Atualmente estou trabalhando com o TypeScript, React JS, C# e SQL no desenvolvimento web fullstack
+      - 👩‍💻 Atualmente estou trabalhando com o TypeScript, React JS, C# e SQL no desenvolvimento web fullstack
  <br>- 📚 Busco entender e aprender cada vez mais das tecnologias que venho utilizando e também de coisas novas
   <br>- 🤓 Quero me aprofundar mais no desenvolvimento fullstack e ver mais temas como algoritmos, testes e devops
   <br>- ⚡ Quando tenho um tempo mais livre gosto de sair para pegar um ar ou só ficar um tempo de boa
